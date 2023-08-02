@@ -7,5 +7,12 @@ This Data is about more than 2600 Billionaires that is listed on <b>"Forbes Real
 # Conclusion of Project.
 Here I have mentioned some insights that I have got during analysis.
 <ul>
-  <li>1. ftyrtyhfhy</li>
+  <li>1.<b>Clemente Del Vecchio and Kim Jung-youn</b> is the world's youngest billionaire, and their age is <b>19</b>.</li>
+  <li>2. Top 5 Industries for Billionaires are -
+    <li>Automotive</li>
+    <li>Technology</li>
+    <li>>Fashion & Retail</li
+    <li>Telecom</li>
+    <li>Metals & Mining</li>
+</li>
 </ul>
