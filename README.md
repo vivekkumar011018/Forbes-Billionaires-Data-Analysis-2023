@@ -5,14 +5,15 @@ This Data is about more than 2600 Billionaires that is listed on <b>"Forbes Real
 
 
 # Conclusion of Project.
-Here I have mentioned some insights that I have got during analysis.
+Here I have mentioned some insights that I have got during analysis. Here I have mentioned only few from them.
 <ul>
-  <li>1.<b>Clemente Del Vecchio and Kim Jung-youn</b> is the world's youngest billionaire, and their age is <b>19</b>.</li>
-  <li>2. Top 5 Industries for Billionaires are -
-    <li>Automotive</li>
-    <li>Technology</li>
-    <li>>Fashion & Retail</li
-    <li>Telecom</li>
-    <li>Metals & Mining</li>
-</li>
+  <li> <b>Clemente Del Vecchio and Kim Jung-youn</b> is the world's youngest billionaire, and their age is <b>19</b>.</li>
+  <li> Top 5 Industries for Billionaires are - <b>Automotive, Technology, Fashion & Retail, Telecom, Metals & Mining.</b></li>
+  <li> <b>The United States</b> is the country with the most billionaires, with a total of <b>750 billionaires</b></li>
+  <li> <b>Finance & Investments</b> is the Industry with the highest number of billionaires <b>i.e. 379.</b></li>
+  <li> Richest women in the world is <b>Francoise Bettencourt Meyers</b> with <b>89 billion dollars</b> Net_Worth.</li>
+  <li> About <b>87% of male and 13% of female</b> are billionaires.</li>
+  <li> About <b>73.94%</b> ages of billionaires lie between 50 and 80.</li>
 </ul>
+
+# Thank You
